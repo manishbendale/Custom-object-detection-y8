@@ -1,0 +1,1 @@
+streamlit run C:\Users\Manish\Desktop\Agriculture\My_Testing_Stiff\Farm_trained\y8\yolov8-segmentation-tracking.py
